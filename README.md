@@ -10,4 +10,6 @@ After downloading install/extract the folder to your present working directory(w
 OpenCv <br/>
 Numpy <br/>
 pytesseract <br/>
- 
+
+# Language
+Python>=3.6
